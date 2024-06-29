@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>シンプルな検索エンジン</title>
+    <title>bideep</title>
 </head>
 <body>
-    <form action="https://www.google.com/search" method="GET">
+    <form action="https://www.bing.com/search" method="GET">
         <input type="text" name="q" />
         <input type="submit" value="検索" />
     </form>
