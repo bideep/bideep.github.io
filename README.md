@@ -9,3 +9,4 @@
     </form>
 </body>
 </html>
+<input type="hidden" name="hl" value="ja" />
